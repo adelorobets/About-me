@@ -3,10 +3,10 @@ Hi I'm Adel 👋
 Welcome to my profile! 
 I'm an aspiring QA engineer looking for a full-time job.
 
-**Link to CV**
+**Link to CV** (in development)
 
 
-# **Portfolio**
+# **Portfolio** (in development)
 
 ## **Test documentation**
 - Mind maps
