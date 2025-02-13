@@ -17,7 +17,6 @@ I'm an aspiring QA engineer looking for a full-time job.
 - Bug report
 
 ## Collection in Postman
-- Project PhoneBook [Collection API](https://github.com/adelorobets/Files/blob/1dac8ca5e767daa9a73bb5371da9137fee08a04c/PhoneBook%20API.postman_collection.json)
 
 ## SQL queries
 - Project name
